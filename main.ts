@@ -110,6 +110,18 @@ leerArchivo('people.json')
 
 //6 
 
+//7 calcualr propiedad de mass y height
+
+function sumarPropiedades(){
+    
+}
+
+
+
+const respuesta = {
+
+}
+
 
 interface objeto {
 
